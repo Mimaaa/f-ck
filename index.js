@@ -1,3 +1,5 @@
+var fck = require('f-ck');
+
 var input = document.querySelector('input');
 var output = document.querySelector('output');
 

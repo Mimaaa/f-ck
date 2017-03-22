@@ -1,0 +1,26 @@
+{
+  "name": "f-ck-www",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mimaaa/f-ck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mimaaa/f-ck/issues"
+  },
+  "homepage": "https://github.com/Mimaaa/f-ck#readme",
+  "dependencies": {
+    "f-ck": "^1.0.1"
+  },
+  "devDependencies": {
+    "browserify": "^14.1.0"
+  }
+}
